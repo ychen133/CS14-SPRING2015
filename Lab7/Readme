@@ -1,0 +1,9 @@
+    According to the graph, a hash table is more efficient in inserting and 
+finding its elements than a self-balancing tree. However, a self-balancing tree 
+is better in that it keeps its elements in order and allow anyone who choose to 
+iterate through it find their object easier. In sumary, hash table is faster but 
+is not ordered, while a self-balancing tree is a bit slower but keeps its 
+elements in order. 
+
+    Other things I might like to compare between the two data structure is how
+long each takes to swap elements within themselves.
